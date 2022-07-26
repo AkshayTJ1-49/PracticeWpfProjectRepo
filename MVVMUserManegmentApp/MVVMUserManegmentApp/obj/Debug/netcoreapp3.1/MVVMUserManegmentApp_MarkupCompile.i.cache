@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\training\WPF\Assignment\MVVMUserManegmentApp\MVVMUserManegmentApp\obj\Debug\netcoreapp3.1\
+D:\training\WPF\GitPractice\PracticeWpfProjectRepo\copy\PracticeWpfProjectRepo\MVVMUserManegmentApp\MVVMUserManegmentApp\obj\Debug\netcoreapp3.1\
 MVVMUserManegmentApp
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\training\WPF\Assignment\MVVMUserManegmentApp\MVVMUserManegmentApp\App.xaml
-4-1529796827
+D:\training\WPF\GitPractice\PracticeWpfProjectRepo\copy\PracticeWpfProjectRepo\MVVMUserManegmentApp\MVVMUserManegmentApp\App.xaml
+4841195629
 
-161942274460
-203331916531
+16-1804610613
+203772176419
 Components\BindablePasswordBoxUserControl.xaml;UserControls\ListViewUserControl.xaml;View\MainWindow.xaml;View\NewUserWindow.xaml;
 
 False

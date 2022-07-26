@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\training\\WPF\\Assignment\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\MVVMUserManegmentApp.csproj",
+      "projectUniqueName": "D:\\training\\WPF\\GitPractice\\PracticeWpfProjectRepo\\copy\\PracticeWpfProjectRepo\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\MVVMUserManegmentApp.csproj",
       "projectName": "MVVMUserManegmentApp",
-      "projectPath": "D:\\training\\WPF\\Assignment\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\MVVMUserManegmentApp.csproj",
+      "projectPath": "D:\\training\\WPF\\GitPractice\\PracticeWpfProjectRepo\\copy\\PracticeWpfProjectRepo\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\MVVMUserManegmentApp.csproj",
       "packagesPath": "C:\\Users\\akkib\\.nuget\\packages\\",
-      "outputPath": "D:\\training\\WPF\\Assignment\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\obj\\",
+      "outputPath": "D:\\training\\WPF\\GitPractice\\PracticeWpfProjectRepo\\copy\\PracticeWpfProjectRepo\\MVVMUserManegmentApp\\MVVMUserManegmentApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akkib\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -637,7 +637,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
