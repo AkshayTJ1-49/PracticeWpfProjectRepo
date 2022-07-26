@@ -11,7 +11,7 @@
         mc:Ignorable="d"
         Title="Home"
         Height="600" Width="450" ><!--Style="{StaticResource Home}"-->
-    <!--resources start-->
+    <!--resources start -->
     <!--xmlns:uc="clr-namespace:MVVMUserManegmentApp.UserControls"-->
 
 
